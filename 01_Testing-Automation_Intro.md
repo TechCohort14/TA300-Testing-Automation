@@ -19,3 +19,4 @@ Now that you have your organization set up, you need a repository in order to sh
 In the repository you will maintain your test conditions and any other test material in one folder (named testMaterial). The other folder (test) will be created automatically when you install WebdriverIO. In it you will find folders for page objects and test specs. The test basis to develop your test conditions and test cases will be emailed to you. 
 
 
+## [Next - Step 2: Team Dynamics](02_Team_Dynamics.md)
