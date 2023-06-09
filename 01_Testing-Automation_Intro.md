@@ -6,5 +6,11 @@ You goal is to use your ISTQB knowledge to create test conditions, test cases, a
  
 As in most projects, you will work in teams to get this done. You will be sharing the work and relying on each other to get the work done. It is a collaborative process. We will have stand up meetings every week to measure progress, create action items, and identify any roadblocks you may be having. Are you ready?   
 
-# Create a Repository
-As a team you will need to create repositories in order to share your work. In one repository you will maintain your test conditions and any other test material you create. The other repository will be for your WebdriverIO page objects and test specs. The test basis to develop your test conditions and test cases will be emailed to you. 
+# Create an Organization
+WHile GitHub is essentially used for repositories, it has several other features. One of them is [Organizations](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations). Please follow link and read the article. Then come back.  
+
+Now that you have an idea of what an organization is, go ahead and decide on what your Organization name will be (please note that it must be a name used in a professional setting). Once you decide the name of the organization, one team member will create it.  
+
+As a team you will need to create a repository in order to share your work. In the repository you will maintain your test conditions and any other test material in one folder (named testMaterial). The other folder (test) will be created automatically when you install WebdriverIO. In it you will find folders for page objects and test specs. The test basis to develop your test conditions and test cases will be emailed to you. 
+
+One team member will create a repository. 
