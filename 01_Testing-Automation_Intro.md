@@ -6,5 +6,5 @@ You goal is to use your ISTQB knowledge to create test conditions, test cases, a
  
 As in most projects, you will work in teams to get this done. You will be sharing the work and relying on each other to get the work done. It is a collaborative process. We will have stand up meetings every week to measure progress, create action items, and identify any roadblocks you may be having. Are you ready?   
 
-# Create a Repositories
+# Create a Repository
 As a team you will need to create repositories in order to share your work. In one repository you will maintain your test conditions and any other test material you create. The other repository will be for your WebdriverIO page objects and test specs. The test basis to develop your test conditions and test cases will be emailed to you. 
