@@ -19,9 +19,11 @@ Take a walk or get some water Talk constructively about actionable items (e.g. r
 
 
 ### Additional examples: 
-Well below, we've included a [list](https://blog.saberr.com/team-norms-behaviors) of (non-exhaustive) suggestions:
+Below is a [list](https://blog.saberr.com/team-norms-behaviors) of (non-exhaustive) suggestions:
 
 - Treat one another with dignity and respect
+- Do your work by the agreed upon deadline
+- Ask for help - don't dwell too long on something trying to do yourself
 - Actively listen 
 - Be open minded with all suggestions
 - Don’t play games—avoid office politics
