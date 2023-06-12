@@ -12,3 +12,5 @@ Please discuss with your team how you wish to address:
 A [sample team contract](SampleTeamContract.md) is provided to give you an idea.
 
 Do not overlook this process. You will be presenting this at your first standup meeting. 
+
+## [Next - Step 3: Stand up meetings](03_Standups.md)
