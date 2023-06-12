@@ -1,9 +1,13 @@
 # Stand Up Meetings
 
-You will have a stand up meeting on coding days. Stand up meetings will not take longer than 10 minutes (can take between 10-15). These meetings are meant for the team to touch base and answer three keys questions: 
+You will have a stand up meeting on coding days. Waht are stand up meetings? Glad you asked, please find more details [here](https://geekbot.com/blog/daily-standup-meeting/). PLease read and come back. 
+
+Stand up meetings will not take longer than 10 minutes (can take between 10-15). These meetings are meant for the team to touch base and answer three keys questions: 
 
 - What did I work on yesterday?
 - What am I working on today?
 - What issues are blocking me?
 
-We want to make sure that the work continues to move forward.
+We want to make sure that work continues to move forward and there is communication within the team. The day and time will be assigned by the project manager. You are expected to attend each meeting and actively participate. 
+
+
