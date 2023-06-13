@@ -11,3 +11,5 @@ Stand up meetings will not take longer than 10 minutes (can take between 10-15).
 We want to make sure that work continues to move forward and there is communication within the team. The day and time will be assigned by the project manager. You are expected to attend each meeting and actively participate. 
 
 
+## [Next - Step 4: Test Conditions and Cases](04_Test_Conditions_Cases.md)
+
