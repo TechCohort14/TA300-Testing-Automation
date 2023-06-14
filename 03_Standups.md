@@ -8,7 +8,7 @@ Stand up meetings will not take longer than 10 minutes (can take between 10-15).
 - What am I working on today?
 - What issues are blocking me?
 
-You must be prepared to answer these three questions. So you may have to talk with your team member(s) to get answers to some of these questions. We want to make sure that work continues to move forward and there is communication within the team. The day and time will be assigned by the project manager. You are expected to attend each meeting and actively participate. 
+You must be prepared to answer these three questions. So you may have to talk with your team member(s) to help answer some of these questions. We want to make sure that work continues to move forward and there is communication within the team. The day and time will be assigned by the project manager. You are expected to attend each meeting and actively participate. 
 
 
 ## [Next - Step 4: Organize](04_Organize.md)
