@@ -11,7 +11,7 @@ While GitHub is essentially used for repositories, it has several other features
 
 Now that you have an idea of what a GitHub organization is, go ahead and discuss in your team what to name your Organization (please note that it must be a name used in a professional setting). Once you decide the name of the organization (you must review team name with project manager), one team member will [create](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch) it.  
 
-After your organization is created you will [invite](https://docs.github.com/en/organizations/managing-membership-in-your-organization/inviting-users-to-join-your-organization) the other team members to join. They should accept the invitaion to join the organization. 
+After your organization is created you will [invite](https://docs.github.com/en/organizations/managing-membership-in-your-organization/inviting-users-to-join-your-organization) the other team members to join. They should accept the invitation to join the organization. 
 
 Once you have done these steps, you should have an organization and your team members should be part of it
 
