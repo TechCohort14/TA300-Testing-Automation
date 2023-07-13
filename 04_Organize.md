@@ -7,4 +7,4 @@ Before you can do any work you have to identify the work. You were provided with
 
 Aside from completing these worksheets, you will have to develop the automation of test cases. Think  
 
-I suggest you first try to list what needs to be done. Have everyone in your team write down the tasks that need to get done. EVRYTHING they can think of is valid at this stage.You can look at the excel sheet and think about the previous exercises you did for WebdriverIO 
+I suggest you first try to list what needs to be done. Have everyone in your team write down the tasks that need to get done. EVERYTHING they can think of is valid at this stage.You can look at the excel sheet and think about the previous exercises you did for WebdriverIO to come up with a list of tasks. 
