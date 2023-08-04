@@ -6,7 +6,9 @@ Before you can do any work you have to identify the work. You were provided with
 - Registration Test Cases
 
 Aside from completing these worksheets, you will have to develop the automation of test cases. You are not expected to automate all test cases. However, a certain amount of test  cases will have to be developed. 
-![Table of deliverables](images/RallyBound Deliverables.JPG)
+
+
+<img src="images/RallyBound Deliverables.JPG" >
 
 
 
