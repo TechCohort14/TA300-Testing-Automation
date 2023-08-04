@@ -47,4 +47,4 @@ export class testData
 }
 
 ```
-How you set up your test data will depend on how you will access it from your `it` statements. 
+How you set up your test data will depend on how you will access it from your `it` statements. Let's practice using the initial login test that is set up by WebdriverIO.  
